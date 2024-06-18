@@ -1,0 +1,13 @@
+[global]
+showWarningOnDirectExecution = false
+disableWidgetStateDuplicationWarning = true
+runOnSave = true
+
+[server]
+port  = 8501
+
+[theme]
+base = "dark"
+backgroundColor = "black"
+secondaryBackgroundColor = "grey"
+textColor = "white"
